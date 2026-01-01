@@ -62,7 +62,7 @@ The Arc Agent provides a powerful set of tools for seamless device sharing:
 *   **Resilient Connections**: Automatic reconnection and error recovery handling for unstable networks.
 *   **Queuing System**: Request access to busy devices and get notified when they become available.
 
-## � Built With
+## Built With
 
 Arc is built using modern, high-performance technologies:
 
@@ -71,7 +71,7 @@ Arc is built using modern, high-performance technologies:
 *   **Vite**: Fast build tool and development server.
 *   **USBIP**: Industry-standard USB-over-IP protocol for reliable device virtualization.
 
-## �🛠️ Usage
+## Usage
 
 Once installed:
 
