@@ -1,4 +1,4 @@
-
+# Arc Agent Installer
 
 ```
   █████╗  ██████╗  ██████╗ 
@@ -8,8 +8,6 @@
  ██║  ██║██║  ██║╚██████╗ 
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
 ```
-
-# Arc Agent Installer
 
 
 This repository hosts the official installer and release artifacts for the **Arc Agent**.
@@ -64,7 +62,16 @@ The Arc Agent provides a powerful set of tools for seamless device sharing:
 *   **Resilient Connections**: Automatic reconnection and error recovery handling for unstable networks.
 *   **Queuing System**: Request access to busy devices and get notified when they become available.
 
-## 🛠️ Usage
+## � Built With
+
+Arc is built using modern, high-performance technologies:
+
+*   **Go (Golang)**: Core agent logic, networking, and device management.
+*   **Vue.js 3**: Client Admin UI with reactive state management.
+*   **Vite**: Fast build tool and development server.
+*   **USBIP**: Industry-standard USB-over-IP protocol for reliable device virtualization.
+
+## �🛠️ Usage
 
 Once installed:
 
